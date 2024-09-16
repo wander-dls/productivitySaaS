@@ -1,11 +1,11 @@
-import { CallToAction } from "@/pages/CallToAction"
-import { Footer } from "@/pages/Footer"
-import { Header } from "@/pages/Header"
-import { Hero } from "@/pages/Hero"
-import { LogoTicker } from "@/pages/LogoTicker"
-import { Pricing } from "@/pages/Pricing"
-import { ProductShowcase } from "@/pages/ProductShowcase"
-import { Testimonials } from "@/pages/Testimonials"
+import { CallToAction } from "@/sections/CallToAction"
+import { Footer } from "@/sections/Footer"
+import { Header } from "@/sections/Header"
+import { Hero } from "@/sections/Hero"
+import { LogoTicker } from "@/sections/LogoTicker"
+import { Pricing } from "@/sections/Pricing"
+import { ProductShowcase } from "@/sections/ProductShowcase"
+import { Testimonials } from "@/sections/Testimonials"
 
 export default function Home() {
   return (
